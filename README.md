@@ -1,4 +1,4 @@
-# sulianapp
+# sulianapp   类似于芸众商城！！！！
 
 # 快链商城系统，H5+公众号+小程序+APP
 
